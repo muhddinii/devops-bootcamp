@@ -10,4 +10,4 @@ tambah di hujung fail:
 Senarai arahan
 - git init / gid add / git commit
 ## Tarikh
-# Projek Bootcamp Git 2026 — Repositori Latihan
+# Projek Bootcamp Git 2026 — Repositori Latihan## Diubah dari laptop
