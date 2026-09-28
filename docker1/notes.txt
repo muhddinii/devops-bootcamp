@@ -1,0 +1,8 @@
+Docker version 28.1.1, build 4eba377
+REPOSITORY       TAG       IMAGE ID       CREATED         SIZE
+nginx            alpine    3dd08163706a   5 days ago      62.9MB
+nginx            latest    e9567a94eddc   9 days ago      162MB
+alpine           latest    320994c3b997   10 days ago     8.42MB
+hello-world      latest    e2ac70e7319a   6 months ago    10.1kB
+infratify/card   latest    735347b6b46d   10 months ago   53.4MB
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
