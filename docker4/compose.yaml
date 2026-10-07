@@ -1,0 +1,22 @@
+services:
+  profile:
+    image: redis
+    volumes:
+      - me:/data
+
+  server:
+    image: ghcr.io/infratify/arena-server
+
+  avatar:
+    image: ghcr.io/infratify/arena-avatar
+    ports:
+      - "3000:3000"
+    environment:
+      NAME: Dini
+      COLOR: blue
+      SERVER: 13.212.241.150
+    depends_on:
+      - profile
+
+volumes:
+  me:
