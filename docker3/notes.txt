@@ -1,0 +1,10 @@
+886576333554.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/muhddinii   v1        ac7b547ce66c   29 minutes ago   68.8MB
+NETWORK ID     NAME            DRIVER    SCOPE
+dbb51eef61b2   arena           bridge    local
+d1ea4f035bd8   arena_default   bridge    local
+0911e45cf1d4   bridge          bridge    local
+f9e389fb4e49   host            host      local
+633a20dc4b69   none            null      local
+DRIVER    VOLUME NAME
+local     arena_me
+local     me
