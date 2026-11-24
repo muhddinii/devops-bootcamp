@@ -7,7 +7,7 @@ terraform {
     }
   }
 
-    backend "s3" {
+  backend "s3" {
     bucket       = "bootcamp-2026-muhddinii"
     key          = "terraform2/terraform.tfstate"
     region       = "ap-southeast-1"
